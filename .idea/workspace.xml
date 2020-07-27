@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="deec0d9c-e481-4607-a166-381656b25335" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f84FAf0Q5voS25TYSiyHDWKxMd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in music_hw">
+    <configuration name="All in music_hw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music_hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DrumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music_hw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="items.instruments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="items.instruments" />
+      <option name="MAIN_CLASS_NAME" value="items.instruments.DrumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music_hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.canGetTotalMarkUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music_hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="canGetTotalMarkUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest.canRemoveFromStock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music_hw" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShopTest" />
+      <option name="METHOD_NAME" value="canRemoveFromStock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in music_hw" />
+        <item itemvalue="JUnit.DrumTest" />
+        <item itemvalue="JUnit.ShopTest.canGetTotalMarkUp" />
+        <item itemvalue="JUnit.ShopTest" />
+        <item itemvalue="JUnit.ShopTest.canRemoveFromStock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deec0d9c-e481-4607-a166-381656b25335" name="Default Changelist" comment="" />
+      <created>1595586279536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595586279536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="649" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1595593955264">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="649" y="233" key="#com.intellij.ide.util.MemberChooser/-1920.23.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1595593955264" />
+    <state width="1358" height="245" key="GridCell.Tab.0.bottom" timestamp="1595834727528">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1595595089663" />
+    <state width="1358" height="245" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1595834727528" />
+    <state width="1358" height="245" key="GridCell.Tab.0.center" timestamp="1595834727527">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1595595089661" />
+    <state width="1358" height="245" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1595834727527" />
+    <state width="1358" height="245" key="GridCell.Tab.0.left" timestamp="1595834727527">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1595595089660" />
+    <state width="1358" height="245" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1595834727527" />
+    <state width="1358" height="245" key="GridCell.Tab.0.right" timestamp="1595834727527">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1595595089662" />
+    <state width="1358" height="245" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1595834727527" />
+    <state x="513" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1595586283660">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="513" y="343" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1595586283660" />
+    <state x="501" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1595594192298">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="501" y="251" width="670" height="676" key="search.everywhere.popup/-1920.23.1920.1057/0.23.1680.961@0.23.1680.961" timestamp="1595594192298" />
+  </component>
+</project>
